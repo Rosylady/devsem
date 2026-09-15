@@ -3,5 +3,10 @@ Software Engineering Method
 [![LICENSE](https://img.shields.io/github/license/Rosylady/devsem.svg?style=flat-square)](https://github.com/Rosylady/devsem/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/Rosylady/devsem/all.svg?style=flat-square)](https://github.com/Rosylady/devsem/releases)
 
-# DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/<Rosylady>/<devsem>/<action name taken from main.yml>/<branch>?style=flat-square)
+
+
+
+* Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Rosylady/devsem/main.yml?branch=master)
+* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Rosylady/devsem/main.yml?branch=develop)
+* License [![LICENSE](https://img.shields.io/github/license/Rosylady/devsem.svg?style=flat-square)](https://github.com/Rosylady/devsem/blob/master/LICENSE)
+* Release [![Releases](https://img.shields.io/github/release/Rosylady/devsem/all.svg?style=flat-square)](https://github.com/Rosylady/devsem/releases)
